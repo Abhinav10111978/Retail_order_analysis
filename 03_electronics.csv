@@ -1,0 +1,38 @@
+OrderID,Date,Customer,City,Product,Category,Quantity,UnitPrice,DiscountPct,PaymentMode,StatusORD0001,2026-01-04,Rohan Mehta,Pune,Smartphone,Electronics,6,21208.1,0.0,UPI,Returned
+ORD0005,2026-01-12,Meera Joshi,Jaipur,Smartphone,Electronics,4,20580.44,5.0,UPI,Returned
+ORD0008,2026-01-30,Dev Malhotra,Mumbai,Smartphone,Electronics,1,21578.04,10.0,Cash,Delivered
+ORD0014,2026-01-15,Meera Joshi,Indore,Laptop,Electronics,2,53060.35,10.0,Net Banking,Pending
+ORD0020,2026-01-31,Kiara Shah,Udaipur,Laptop,Electronics,5,55718.62,0.0,UPI,Cancelled
+ORD0021,2026-01-17,Rohan Mehta,Jaipur,Headphones,Electronics,6,1792.88,15.0,Net Banking,Delivered
+ORD0025,2026-03-07,Ananya Singh,Ahmedabad,Smartphone,Electronics,2,21220.24,10.0,Card,Returned
+ORD0027,2026-03-26,Sara Khan,Mumbai,Smartphone,Electronics,4,21487.13,10.0,UPI,Returned
+ORD0028,2026-01-08,Ananya Singh,Bhopal,Smartphone,Electronics,4,22803.31,0.0,Card,Cancelled
+ORD0031,2026-02-22,Reyansh Kapoor,Indore,Headphones,Electronics,4,1794.63,10.0,Card,Pending
+ORD0032,2026-02-19,Kabir Verma,Udaipur,Laptop,Electronics,3,55548.63,10.0,Net Banking,Delivered
+ORD0036,2026-03-14,Meera Joshi,Indore,Smartphone,Electronics,2,22277.8,0.0,Net Banking,Returned
+ORD0044,2026-03-23,Aarav Sharma,Jaipur,Smartphone,Electronics,4,23159.31,0.0,Card,Returned
+ORD0046,2026-03-11,Arjun Rao,Bhopal,Headphones,Electronics,1,1896.36,15.0,Net Banking,Delivered
+ORD0047,2026-02-09,Reyansh Kapoor,Jaipur,Laptop,Electronics,3,55319.53,0.0,Card,Returned
+ORD0049,2026-01-31,Reyansh Kapoor,Udaipur,Headphones,Electronics,2,1937.15,0.0,UPI,Delivered
+ORD0051,2026-03-02,Ishita Jain,Jaipur,Laptop,Electronics,2,49500.45,10.0,Card,Delivered
+ORD0052,2026-03-26,Myra Das,Indore,Laptop,Electronics,2,51155.24,5.0,Cash,Delivered
+ORD0054,2026-03-16,Vivaan Gupta,Jaipur,Headphones,Electronics,3,1667.02,15.0,Cash,Pending
+ORD0059,2026-01-25,Dev Malhotra,Pune,Headphones,Electronics,4,1847.5,10.0,Card,Cancelled
+ORD0067,2026-03-01,Meera Joshi,Jaipur,Headphones,Electronics,6,1808.97,15.0,Net Banking,Cancelled
+ORD0071,2026-01-30,Diya Patel,Udaipur,Headphones,Electronics,4,1855.86,0.0,Net Banking,Delivered
+ORD0080,2026-03-21,Dev Malhotra,Indore,Laptop,Electronics,2,49824.69,10.0,Card,Pending
+ORD0082,2026-03-16,Dev Malhotra,Udaipur,Smartphone,Electronics,1,23509.68,15.0,Net Banking,Returned
+ORD0089,2026-03-05,Ishita Jain,Mumbai,Laptop,Electronics,3,49352.91,0.0,Cash,Delivered
+ORD0092,2026-01-12,Kabir Verma,Pune,Laptop,Electronics,3,49683.68,0.0,Cash,Pending
+ORD0097,2026-01-07,Dev Malhotra,Mumbai,Laptop,Electronics,5,50270.58,0.0,Net Banking,Delivered
+ORD0098,2026-03-15,Ishita Jain,Bhopal,Laptop,Electronics,3,51745.38,10.0,UPI,Delivered
+ORD0100,2026-03-14,Diya Patel,Ahmedabad,Headphones,Electronics,3,1680.53,0.0,Net Banking,Cancelled
+ORD0104,2026-02-22,Kabir Verma,Indore,Laptop,Electronics,4,53575.57,10.0,Card,Delivered
+ORD0106,2026-03-11,Myra Das,Bhopal,Smartphone,Electronics,2,22519.67,5.0,UPI,Delivered
+ORD0107,2026-02-09,Reyansh Kapoor,Jaipur,Headphones,Electronics,5,1871.7,15.0,Net Banking,Delivered
+ORD0109,2026-03-18,Meera Joshi,Jaipur,Smartphone,Electronics,1,23370.77,5.0,UPI,Delivered
+ORD0111,2026-01-23,Reyansh Kapoor,Jaipur,Laptop,Electronics,4,52157.78,10.0,Card,Cancelled
+ORD0113,2026-01-21,Kabir Verma,Pune,Smartphone,Electronics,3,21688.99,10.0,Net Banking,Cancelled
+ORD0114,2026-02-28,Diya Patel,Mumbai,Laptop,Electronics,1,50456.78,5.0,Net Banking,Cancelled
+ORD0115,2026-03-26,Ananya Singh,Ahmedabad,Laptop,Electronics,5,51683.64,0.0,Cash,Cancelled
+ORD0119,2026-03-05,Vivaan Gupta,Mumbai,Headphones,Electronics,6,1740.06,5.0,Net Banking,Pending

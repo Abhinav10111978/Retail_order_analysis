@@ -1,0 +1,11 @@
+OrderID,Date,Customer,City,Product,Category,Quantity,UnitPrice,DiscountPct,PaymentMode,Status,Revenue
+ORD0020,2026-01-31,Kiara Shah,Udaipur,Laptop,Electronics,5,55718.62,0.0,UPI,Cancelled,278593.10000000003
+ORD0115,2026-03-26,Ananya Singh,Ahmedabad,Laptop,Electronics,5,51683.64,0.0,Cash,Cancelled,258418.2
+ORD0097,2026-01-07,Dev Malhotra,Mumbai,Laptop,Electronics,5,50270.58,0.0,Net Banking,Delivered,251352.90000000002
+ORD0104,2026-02-22,Kabir Verma,Indore,Laptop,Electronics,4,53575.57,10.0,Card,Delivered,192872.052
+ORD0111,2026-01-23,Reyansh Kapoor,Jaipur,Laptop,Electronics,4,52157.78,10.0,Card,Cancelled,187768.008
+ORD0047,2026-02-09,Reyansh Kapoor,Jaipur,Laptop,Electronics,3,55319.53,0.0,Card,Returned,165958.59
+ORD0032,2026-02-19,Kabir Verma,Udaipur,Laptop,Electronics,3,55548.63,10.0,Net Banking,Delivered,149981.30099999998
+ORD0092,2026-01-12,Kabir Verma,Pune,Laptop,Electronics,3,49683.68,0.0,Cash,Pending,149051.04
+ORD0089,2026-03-05,Ishita Jain,Mumbai,Laptop,Electronics,3,49352.91,0.0,Cash,Delivered,148058.73
+ORD0098,2026-03-15,Ishita Jain,Bhopal,Laptop,Electronics,3,51745.38,10.0,UPI,Delivered,139712.52599999998

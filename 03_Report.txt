@@ -1,0 +1,21 @@
+===== RETAIL ORDERS SUMMARY REPORT =====
+
+Total Orders: 120
+Total Customers: 15
+Total Products: 10
+Total Quantity Sold: 420
+Total Revenue: 3900661.10
+
+===== ORDER STATUS =====
+
+Returned Orders: 18
+Delivered Orders: 58
+Delivered Orders: 20
+Cancelled Orders: 24
+
+===== PAYMENT_METHOD STATUS =====
+
+by UPI: 32
+by Card: 35
+by Cash: 26
+by Net Banking: 27

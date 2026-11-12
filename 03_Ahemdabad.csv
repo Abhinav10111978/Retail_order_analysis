@@ -1,0 +1,13 @@
+OrderID,Date,Customer,City,Product,Category,Quantity,UnitPrice,DiscountPct,PaymentMode,StatusORD0006,2026-03-10,Diya Patel,Ahmedabad,Water Bottle,Accessories,1,484.06,10.0,Cash,Returned
+ORD0011,2026-01-05,Ananya Singh,Ahmedabad,Office Chair,Furniture,3,6397.21,0.0,Cash,Delivered
+ORD0013,2026-02-24,Rohan Mehta,Ahmedabad,Desk Lamp,Home Decor,5,934.71,0.0,Net Banking,Delivered
+ORD0025,2026-03-07,Ananya Singh,Ahmedabad,Smartphone,Electronics,2,21220.24,10.0,Card,Returned
+ORD0033,2026-02-07,Kiara Shah,Ahmedabad,Office Chair,Furniture,2,6987.46,15.0,UPI,Returned
+ORD0090,2026-03-18,Aarav Sharma,Ahmedabad,Study Table,Furniture,6,9016.95,15.0,Card,Delivered
+ORD0096,2026-01-30,Kiara Shah,Ahmedabad,Study Table,Furniture,3,8064.04,0.0,Card,Delivered
+ORD0100,2026-03-14,Diya Patel,Ahmedabad,Headphones,Electronics,3,1680.53,0.0,Net Banking,Cancelled
+ORD0103,2026-02-03,Rohan Mehta,Ahmedabad,Office Chair,Furniture,6,6064.43,0.0,UPI,Delivered
+ORD0108,2026-03-30,Arjun Rao,Ahmedabad,Water Bottle,Accessories,3,464.38,5.0,Net Banking,Pending
+ORD0115,2026-03-26,Ananya Singh,Ahmedabad,Laptop,Electronics,5,51683.64,0.0,Cash,Cancelled
+ORD0116,2026-03-22,Kabir Verma,Ahmedabad,Water Bottle,Accessories,4,468.72,0.0,Card,Delivered
+ORD0120,2026-02-28,Reyansh Kapoor,Ahmedabad,Office Chair,Furniture,5,6130.43,0.0,Card,Delivered

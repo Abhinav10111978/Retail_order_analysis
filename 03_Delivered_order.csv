@@ -1,0 +1,58 @@
+OrderID,Date,Customer,City,Product,Category,Quantity,UnitPrice,DiscountPct,PaymentMode,StatusORD0004,2026-01-01,Kabir Verma,Bhopal,Study Table,Furniture,2,8769.47,5.0,Card,Delivered
+ORD0007,2026-02-16,Aarav Sharma,Pune,Desk Lamp,Home Decor,5,903.23,0.0,Card,Delivered
+ORD0008,2026-01-30,Dev Malhotra,Mumbai,Smartphone,Electronics,1,21578.04,10.0,Cash,Delivered
+ORD0010,2026-01-21,Ananya Singh,Pune,Office Chair,Furniture,4,6374.63,15.0,Cash,Delivered
+ORD0011,2026-01-05,Ananya Singh,Ahmedabad,Office Chair,Furniture,3,6397.21,0.0,Cash,Delivered
+ORD0013,2026-02-24,Rohan Mehta,Ahmedabad,Desk Lamp,Home Decor,5,934.71,0.0,Net Banking,Delivered
+ORD0016,2026-02-04,Vivaan Gupta,Bhopal,Backpack,Accessories,6,1364.2,5.0,Net Banking,Delivered
+ORD0019,2026-03-04,Reyansh Kapoor,Mumbai,Notebook Pack,Stationery,1,234.47,5.0,Cash,Delivered
+ORD0021,2026-01-17,Rohan Mehta,Jaipur,Headphones,Electronics,6,1792.88,15.0,Net Banking,Delivered
+ORD0024,2026-01-01,Ananya Singh,Indore,Office Chair,Furniture,1,6716.15,0.0,UPI,Delivered
+ORD0026,2026-03-15,Aditya Nair,Udaipur,Desk Lamp,Home Decor,4,910.94,10.0,Card,Delivered
+ORD0030,2026-01-13,Myra Das,Indore,Backpack,Accessories,1,1434.08,15.0,UPI,Delivered
+ORD0032,2026-02-19,Kabir Verma,Udaipur,Laptop,Electronics,3,55548.63,10.0,Net Banking,Delivered
+ORD0034,2026-01-08,Reyansh Kapoor,Mumbai,Notebook Pack,Stationery,1,253.37,15.0,Card,Delivered
+ORD0037,2026-03-14,Ananya Singh,Pune,Desk Lamp,Home Decor,5,922.09,5.0,Cash,Delivered
+ORD0038,2026-02-20,Sara Khan,Jaipur,Study Table,Furniture,2,8733.5,5.0,UPI,Delivered
+ORD0039,2026-03-21,Arjun Rao,Bhopal,Water Bottle,Accessories,5,485.72,0.0,Cash,Delivered
+ORD0041,2026-01-02,Reyansh Kapoor,Pune,Backpack,Accessories,6,1471.03,5.0,UPI,Delivered
+ORD0043,2026-01-27,Arjun Rao,Udaipur,Notebook Pack,Stationery,6,255.37,5.0,Cash,Delivered
+ORD0045,2026-01-21,Arjun Rao,Indore,Study Table,Furniture,6,8420.9,10.0,UPI,Delivered
+ORD0046,2026-03-11,Arjun Rao,Bhopal,Headphones,Electronics,1,1896.36,15.0,Net Banking,Delivered
+ORD0049,2026-01-31,Reyansh Kapoor,Udaipur,Headphones,Electronics,2,1937.15,0.0,UPI,Delivered
+ORD0051,2026-03-02,Ishita Jain,Jaipur,Laptop,Electronics,2,49500.45,10.0,Card,Delivered
+ORD0052,2026-03-26,Myra Das,Indore,Laptop,Electronics,2,51155.24,5.0,Cash,Delivered
+ORD0053,2026-02-21,Ishita Jain,Indore,Backpack,Accessories,6,1507.78,15.0,UPI,Delivered
+ORD0056,2026-01-01,Dev Malhotra,Pune,Pen Set,Stationery,5,128.17,15.0,Card,Delivered
+ORD0062,2026-01-22,Dev Malhotra,Pune,Water Bottle,Accessories,6,420.11,15.0,Cash,Delivered
+ORD0063,2026-03-28,Rohan Mehta,Indore,Office Chair,Furniture,3,6213.63,0.0,UPI,Delivered
+ORD0069,2026-02-01,Sara Khan,Pune,Study Table,Furniture,6,8197.14,15.0,Card,Delivered
+ORD0070,2026-01-10,Ishita Jain,Jaipur,Water Bottle,Accessories,6,434.57,5.0,UPI,Delivered
+ORD0071,2026-01-30,Diya Patel,Udaipur,Headphones,Electronics,4,1855.86,0.0,Net Banking,Delivered
+ORD0076,2026-01-04,Diya Patel,Pune,Backpack,Accessories,4,1420.58,0.0,Net Banking,Delivered
+ORD0077,2026-01-24,Ananya Singh,Udaipur,Water Bottle,Accessories,1,432.73,5.0,Cash,Delivered
+ORD0078,2026-02-05,Sara Khan,Indore,Pen Set,Stationery,4,115.24,0.0,UPI,Delivered
+ORD0079,2026-03-25,Aditya Nair,Indore,Office Chair,Furniture,1,6792.48,0.0,Card,Delivered
+ORD0081,2026-02-17,Aditya Nair,Mumbai,Study Table,Furniture,2,8644.01,0.0,Card,Delivered
+ORD0084,2026-01-16,Arjun Rao,Udaipur,Desk Lamp,Home Decor,5,992.96,5.0,Cash,Delivered
+ORD0087,2026-03-03,Kabir Verma,Jaipur,Backpack,Accessories,4,1385.57,15.0,Card,Delivered
+ORD0088,2026-02-27,Meera Joshi,Pune,Study Table,Furniture,2,8840.65,15.0,Net Banking,Delivered
+ORD0089,2026-03-05,Ishita Jain,Mumbai,Laptop,Electronics,3,49352.91,0.0,Cash,Delivered
+ORD0090,2026-03-18,Aarav Sharma,Ahmedabad,Study Table,Furniture,6,9016.95,15.0,Card,Delivered
+ORD0093,2026-03-09,Ishita Jain,Jaipur,Backpack,Accessories,3,1383.31,15.0,Net Banking,Delivered
+ORD0094,2026-02-02,Ishita Jain,Indore,Study Table,Furniture,2,7984.09,0.0,Card,Delivered
+ORD0095,2026-03-03,Meera Joshi,Jaipur,Office Chair,Furniture,3,6733.57,15.0,UPI,Delivered
+ORD0096,2026-01-30,Kiara Shah,Ahmedabad,Study Table,Furniture,3,8064.04,0.0,Card,Delivered
+ORD0097,2026-01-07,Dev Malhotra,Mumbai,Laptop,Electronics,5,50270.58,0.0,Net Banking,Delivered
+ORD0098,2026-03-15,Ishita Jain,Bhopal,Laptop,Electronics,3,51745.38,10.0,UPI,Delivered
+ORD0099,2026-01-15,Meera Joshi,Pune,Water Bottle,Accessories,1,442.85,0.0,UPI,Delivered
+ORD0103,2026-02-03,Rohan Mehta,Ahmedabad,Office Chair,Furniture,6,6064.43,0.0,UPI,Delivered
+ORD0104,2026-02-22,Kabir Verma,Indore,Laptop,Electronics,4,53575.57,10.0,Card,Delivered
+ORD0106,2026-03-11,Myra Das,Bhopal,Smartphone,Electronics,2,22519.67,5.0,UPI,Delivered
+ORD0107,2026-02-09,Reyansh Kapoor,Jaipur,Headphones,Electronics,5,1871.7,15.0,Net Banking,Delivered
+ORD0109,2026-03-18,Meera Joshi,Jaipur,Smartphone,Electronics,1,23370.77,5.0,UPI,Delivered
+ORD0112,2026-03-23,Ishita Jain,Udaipur,Pen Set,Stationery,4,129.01,10.0,Cash,Delivered
+ORD0116,2026-03-22,Kabir Verma,Ahmedabad,Water Bottle,Accessories,4,468.72,0.0,Card,Delivered
+ORD0117,2026-03-31,Aditya Nair,Bhopal,Water Bottle,Accessories,4,422.74,15.0,Card,Delivered
+ORD0118,2026-01-02,Myra Das,Indore,Backpack,Accessories,5,1379.39,0.0,Net Banking,Delivered
+ORD0120,2026-02-28,Reyansh Kapoor,Ahmedabad,Office Chair,Furniture,5,6130.43,0.0,Card,Delivered

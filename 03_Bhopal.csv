@@ -1,0 +1,13 @@
+OrderID,Date,Customer,City,Product,Category,Quantity,UnitPrice,DiscountPct,PaymentMode,StatusORD0002,2026-01-12,Diya Patel,Bhopal,Backpack,Accessories,5,1382.51,0.0,Card,Cancelled
+ORD0003,2026-01-04,Vivaan Gupta,Bhopal,Desk Lamp,Home Decor,5,904.22,15.0,Net Banking,Cancelled
+ORD0004,2026-01-01,Kabir Verma,Bhopal,Study Table,Furniture,2,8769.47,5.0,Card,Delivered
+ORD0012,2026-02-20,Rohan Mehta,Bhopal,Water Bottle,Accessories,6,447.04,5.0,Cash,Returned
+ORD0016,2026-02-04,Vivaan Gupta,Bhopal,Backpack,Accessories,6,1364.2,5.0,Net Banking,Delivered
+ORD0028,2026-01-08,Ananya Singh,Bhopal,Smartphone,Electronics,4,22803.31,0.0,Card,Cancelled
+ORD0039,2026-03-21,Arjun Rao,Bhopal,Water Bottle,Accessories,5,485.72,0.0,Cash,Delivered
+ORD0046,2026-03-11,Arjun Rao,Bhopal,Headphones,Electronics,1,1896.36,15.0,Net Banking,Delivered
+ORD0050,2026-02-22,Kabir Verma,Bhopal,Notebook Pack,Stationery,6,264.56,0.0,UPI,Pending
+ORD0066,2026-01-23,Arjun Rao,Bhopal,Office Chair,Furniture,6,6518.68,0.0,UPI,Pending
+ORD0098,2026-03-15,Ishita Jain,Bhopal,Laptop,Electronics,3,51745.38,10.0,UPI,Delivered
+ORD0106,2026-03-11,Myra Das,Bhopal,Smartphone,Electronics,2,22519.67,5.0,UPI,Delivered
+ORD0117,2026-03-31,Aditya Nair,Bhopal,Water Bottle,Accessories,4,422.74,15.0,Card,Delivered
